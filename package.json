@@ -1,0 +1,12 @@
+{
+  "name": "random-data-generator",
+  "version": "1.0.0",
+  "description": "Rastgele veri oluşturan Node.js modülü",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["random", "data", "generator"],
+  "author": "Your Name",
+  "license": "MIT"
+}
